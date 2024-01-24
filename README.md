@@ -14,9 +14,19 @@ https://github.com/lucidrains/ddpm-proteins
 
 https://github.com/KirillShmilovich/GAN_DDPM_conditional_molecular_structure_generation
 
+Graph
+
+⭐⭐https://github.com/ennauata/houseganpp
+
+⭐https://github.com/ennauata/housegan
+
 Dataset
 
 floor
+
+⭐⭐https://github.com/zzilch/RPLAN-Toolbox （制作方法可能）
+
+⭐http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html（5w的住宅数据集 但好像要申请）
 
 https://github.com/CubiCasa/CubiCasa5k
 
